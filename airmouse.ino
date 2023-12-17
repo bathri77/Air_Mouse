@@ -1,8 +1,3 @@
-
-
-
-
-
 #include <MPU6050_tockn.h>                                    // Download and install this library https://github.com/tockn/MPU6050_tockn
 #include <Wire.h>
 
